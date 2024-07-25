@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DjimEbambe
-- 👀 I am interested in data science, DevOps web and mobile development
-- 👀 On-board system,raspberry, esp32 and arduino
-- 📫 jeandjim@gmail.com, +243829400945
-
-
+- 🚀 Data Scientist | DevOps Engineer | Full-Stack Developer
+- 🛠️ Passionate about building data-driven solutions, optimizing cloud infrastructure, and crafting seamless web & mobile experiences.
+- 💡 Experienced with embedded systems (Raspberry Pi, ESP32, Arduino).
+  
+- Let's connect! 📫 jeandjim@gmail.com | +243829400945 
